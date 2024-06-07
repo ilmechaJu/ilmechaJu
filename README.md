@@ -2,7 +2,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pawor006)](https://solved.ac/pawor006)
 
 <h1 align="center">Hi 👋, I'm ilmechaJu</h1>
-<h3 align="center">A passionate frontend developer from korea</h3>
+<h3 align="center">A passionate beackend developer from korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilmechaju&label=Profile%20views&color=0e75b6&style=flat" alt="ilmechaju" /> </p>
 
