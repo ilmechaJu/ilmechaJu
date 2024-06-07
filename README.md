@@ -1,6 +1,3 @@
-## ilmechaJu의 백준 Rank🥇
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pawor006)](https://solved.ac/pawor006)
-
 <h1 align="center">Hi 👋, I'm ilmechaJu</h1>
 <h3 align="center">A passionate backend developer from korea</h3>
 
@@ -20,3 +17,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilmechaju&show_icons=true&locale=en" alt="ilmechaju" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilmechaju&" alt="ilmechaju" /></p>
+
+
+## ilmechaJu의 백준 Rank🥇
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pawor006)](https://solved.ac/pawor006)
